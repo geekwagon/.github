@@ -1,6 +1,6 @@
-# Geekwagon
+![Geekwagon](logo-animated-v2-transparent-background.gif)
 
-⛏️ just an old chunk of coal
+<p style="text-align: right">⛏️ just an old chunk of coal</p>
 
 ## Contact
 
