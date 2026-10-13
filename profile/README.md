@@ -1,4 +1,4 @@
-![Geekwagon](https://gitlab.com/geekwagon/gitlab-profile/-/raw/main/logo-animated-v2-transparent-background.gif)
+![Geekwagon](https://gitlab.com/geekwagon/gitlab-profile/-/raw/main/logo-v2-transparent-background.png)
 
 <p style="text-align: right">⛏️ just an old chunk of coal</p>
 
