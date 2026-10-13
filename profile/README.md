@@ -1,6 +1,6 @@
 ![Geekwagon](https://gitlab.com/geekwagon/gitlab-profile/-/raw/main/logo-v2-transparent-background.png)
 
-<p style="text-align: right">⛏️ just an old chunk of coal</p>
+⛏️ just an old chunk of coal
 
 ## Contact
 
